@@ -29,6 +29,11 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  
 [![Leuxll's Github Stats](https://github-readme-stats-mu-rosy.vercel.app/api?username=leuxll)](https://github.com/leuxll/github-readme-stats)
+
+</details>
 
 [instagram]: https://www.instagram.com/i0wnalan3/
