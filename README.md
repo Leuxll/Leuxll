@@ -20,4 +20,8 @@
 <br />
 <br />
 
+---
+
+[![Leuxll's Github Stats](https://github-readme-stats.vercel.app/api?username=leuxll)](https://github.com/leuxll/github-readme-stats)
+
 [instagram]: https://www.instagram.com/i0wnalan3/
