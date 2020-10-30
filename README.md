@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on a Flutter App!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Write more code and learn more!
-- ⚡ Fun fact: I love to movies
+- 🥅 2020 Goals: Learn and code more!
+- ⚡ Fun fact: I love to watch movies.
 
 ### Connect with me:
 
