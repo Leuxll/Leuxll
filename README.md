@@ -1,11 +1,11 @@
 ### Hi there, I'm Yue Fung - aka Leuxll 👋
 
-## I'm a Student, Developer, and Gamer!
+## I'm a CS student enrolled at the University of Toronto, a Developer, and Gamer!
 
-- 🔭 I’m currently working on a Flutter App!
+- 🔭 I’m currently taking 2 summer courses (MAT237 and CSC236) at the University of Toronto!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn and code more!
-- ⚡ Fun fact: I love to watch movies.
+- 🥅 2022 Summer Goal: Learn React and other frontend tools!
+- ⚡ Fun fact: I love to watch movies(Django is #1 for me).
 
 ### Connect with me:
 
@@ -29,11 +29,4 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-[![Leuxll's Github Stats](https://github-readme-stats-mu-rosy.vercel.app/api?username=leuxll)](https://github.com/leuxll/github-readme-stats)
-
-</details>
-
-[instagram]: https://www.instagram.com/i0wnalan3/
+[instagram]: https://www.instagram.com/leuxl811/
