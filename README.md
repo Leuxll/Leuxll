@@ -3,7 +3,7 @@
 ## I'm a CS student enrolled at the University of Toronto, a Developer, and Gamer!
 
 - 🔭 I’m currently taking 2 summer courses (MAT237 and CSC236) at the University of Toronto!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning more about web development (HTML/CSS and Javascript) 🤣
 - 🥅 2022 Summer Goal: Learn React and other frontend tools!
 - ⚡ Fun fact: I love to watch movies(Django is #1 for me).
 
