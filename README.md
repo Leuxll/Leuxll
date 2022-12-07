@@ -3,9 +3,9 @@
 ## I'm a CS student enrolled at the University of Toronto, a Developer, and Gamer!
 
 - 🔭 I’m currently a 3rd year at the University of Toronto, taking the courses CSC258, CSC207, STA247, LIN200 for fall and CSC263, CSC209, CSC311, CSC343, CSC384 in the winter!
-- 🌱 I’m currently learning more about web development (HTML/CSS and Javascript) 🤣
-- 🥅 2022 Summer Goal: Learn React and other frontend tools!
-- ⚡ Fun fact: I love to watch movies(Django is #1 for me).
+- 🌱 I’m currently grinding leetcode for OAs and Interviews 🤣
+- 🥅 2023 Summer Goal: GET A JOB!
+- ⚡ Fun fact: I love to watch anime and movies.
 
 ### Connect with me:
 
