@@ -1,6 +1,6 @@
-### Hi there, I'm Yue Fung - aka Leuxll 👋
+### Hi there, 👋
 
-## I'm a CS student enrolled at the University of Toronto, a Developer, and Gamer!
+## swe @ AWS
 
 - 🔭 I’m currently a full time swe at AWS working on Serverless Messaging (SNS/SQS) 💭
 - 🌱 I’m currently building more and more person projects to tackle pain points that I find on the day to day!
