@@ -2,14 +2,10 @@
 
 ## I'm a CS student enrolled at the University of Toronto, a Developer, and Gamer!
 
-- 🔭 I’m currently a 3rd year at the University of Toronto, taking the courses CSC318, CSC318, CSC301, CSC369 for Fall Semester and CSC413, CSC420, CSC373, CSC309, CSC303 in the Winter Semester!
-- 🌱 I’m currently grinding leetcode for OAs and Interviews 🤣
-- 🥅 2024 Summer Goal: GET A JOB!
-- ⚡ Fun fact: I enjoy going to the gym and started getting into poker.
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🔭 I’m currently a full time swe at AWS working on Serverless Messaging (SNS/SQS) 💭
+- 🌱 I’m currently building more and more person projects to tackle pain points that I find on the day to day!
+- 🥅 2026 Resolution: Consistency
+- ⚡ Fun fact: I enjoy going to the gym🏋️ and also reading 📖
 
 <br />
 
